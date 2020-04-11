@@ -1,2 +1,2 @@
-# Ola mundo
- Reaprendendo a usar Git e GitHub
+# Olá, mundo!
+ Reaprendendo a usar Git e GitHub no Curso em Vídeo
