@@ -27,3 +27,24 @@ Lisra de Tarefas:
 - [x] Aula 2
 - [x] Aula 3
 - [ ] Aula 4
+
+Num | Nome | Data
+---|---|---
+1 | Furiba | 2015
+
+Não entendo tal comando `andre.getComida()` não ta funcionando.
+
+
+Olha meu programa:
+
+```
+num = int(input('Digite um valor:'))
+if num % 2 == 0;
+ print(f' O {num} É PAR')
+else:
+ print(f' O {num} É Impar')
+
+```
+
+> Deu ruim!
+hann
